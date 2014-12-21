@@ -1,19 +1,6 @@
 backbone-subroute-rails
 =======================
 
-Rails asset wrapper for [backbone.subroute](https://github.com/ModelN/backbone.subroute).
-
-```
-// In application.js
-//= require backbone.subroute
-//= require backbone.subroute.min
-```
-
-
-
-backbone-subroute-rails
-=======================
-
 Rails (3.1 and up) asset wrapper for the latest version of [backbone.subroute](https://github.com/ModelN/backbone.subroute) (0.4.5).
 
 # Installation
