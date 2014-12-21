@@ -6,8 +6,7 @@ Gem::Specification.new do |spec|
   spec.version       = VERSION
   spec.authors       = ["Alexander Schwartzberg"]
   spec.email         = ["aeksco@gmail.com"]
-  spec.summary       = %q{Rails asset wrapper for backbone.subroute}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Rails asset wrapper for backbone.subroute"
   spec.homepage      = "https://github.com/aeksco/backbone-subroute-rails"
   spec.license       = "MIT"
 
