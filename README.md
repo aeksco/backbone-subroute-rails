@@ -1,7 +1,7 @@
 backbone-subroute-rails
 =======================
 
-Rails (3.1 and up) asset wrapper for the latest version of [backbone.subroute](https://github.com/ModelN/backbone.subroute) (0.4.5).
+Rails (3.1 and up) asset wrapper for the latest version of [backbone.subroute](https://github.com/ModelN/backbone.subroute) (0.4.6).
 
 # Installation
 #### Step 1: Add it to your gemfile:
